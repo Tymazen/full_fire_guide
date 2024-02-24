@@ -24,7 +24,7 @@ Examples:
 ### Okay, what's overcapping?
 Overcapping is having a resource sit at its maximum stacks for any duration of time, thus not being on cooldown. A very simple example of this would be:
 - I have three  charges of [Fireblast](https://www.wowhead.com/spell=108853/fire-blast), they recharge every 10 seconds (made up number). I don't use my first charge for 10 seconds because I don't know any better. I then use it.
-- What has occured here is I got to use one charge of [Fireblast](https://www.wowhead.com/spell=108853/fire-blast) in a 10 second window, when in reality I could've gotten to use two. The first charge at the start, and a second charge 10 seconds later.
-- This adds up over a fight. In this particular example, for every 10 seconds total I overcap on [Fireblast](https://www.wowhead.com/spell=108853/fire-blast) charges, I lose a usage. Even if i'm only overcapping for 1 to 2 seconds at a time, if I consistently do this for a grand total of 60 seconds, i've lost 6 uses of that spell.
+- What has occurred here is I got to use one charge of [Fireblast](https://www.wowhead.com/spell=108853/fire-blast) in a 10 second window, when in reality I could've gotten to use two. The first charge at the start, and a second charge 10 seconds later.
+- This adds up over a fight. In this particular example, for every 10 seconds total I overcap on [Fireblast](https://www.wowhead.com/spell=108853/fire-blast) charges, I lose a usage. Even if I'm only overcapping for 1 to 2 seconds at a time, if I consistently do this for a grand total of 60 seconds, I've lost 6 uses of that spell.
 
 Thus, overcapping resources is very bad and loses us uses of a said resource down the line.
