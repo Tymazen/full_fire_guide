@@ -131,6 +131,3 @@ Typically it looks like this:
 - [Fireblast](https://www.wowhead.com/spell=108853/fire-blast)>[Pyroblast](https://www.wowhead.com/spell=11366/pyroblast) for the last half GCD. (It's only in hu-SKB's for current content/gearing)
 
 ![skb_anatomy](https://github.com/Tymazen/images/assets/67207109/8e0c95f2-5882-4bd8-abde-0704ee27f399)
-
-
-### Examples
