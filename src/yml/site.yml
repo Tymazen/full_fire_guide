@@ -1,23 +1,23 @@
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: Wow Guides
+title: How to play | Guides for Wow
+description: How to play guides for World of Warcraft.
 tags:
   - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - Guides
+  - Rotation
+  - how to
+  - World of Warcraft
+  - Fire Mage
 show_hero: true
 menu:
   - title: Home
     url: /
-  - title: About
+  - title: About Tymazen
     url: /about
-  - title: Contact
-    url: /contact
-  - title: Feed
-    url: /feed.xml
+  - title: Other Resources
+    url: /other_resources
+  - title: Acknowledgements
+    url: /Acknowledgements
 email: youremail@test.com
 # See: https://disqus.com/
 disqus_username: disqus_username
