@@ -42,13 +42,13 @@ The way we play would be as if we were reading this list from the top down, ever
 - Cast [Meteor](https://www.wowhead.com/spell=153561/meteor) as long as it will land before [Combustion](https://www.wowhead.com/spell=190319/combustion) has ended.
 - Hardcast for [Fireball](https://www.wowhead.com/spell=133/fireball) with a [Flame Accelerant](https://www.wowhead.com/spell=203275/flame-accelerant) proc, as long as it will finish before [Combustion](https://www.wowhead.com/spell=190319/combustion) has ended
 - Consume [Hot Streak](https://www.wowhead.com/spell=48108/hot-streak) with [Pyroblast](https://www.wowhead.com/spell=11366/pyroblast) or [Flamestrike](https://www.wowhead.com/spell=2120/flamestrike) as appropriate
-- Cast [Fireblast](https://www.wowhead.com/spell=108853/fire-blast) to convert [Heaitng up](https://www.wowhead.com/spell=48107/heating-up) to [Hot Streak](https://www.wowhead.com/spell=48108/hot-streak) as agressively as possible without dropping [Feel the Burn](https://www.wowhead.com/spell=383391/feel-the-burn)
+- Cast [Fireblast](https://www.wowhead.com/spell=108853/fire-blast) to convert [Heating up](https://www.wowhead.com/spell=48107/heating-up) to [Hot Streak](https://www.wowhead.com/spell=48108/hot-streak) as aggressively as possible without dropping [Feel the Burn](https://www.wowhead.com/spell=383391/feel-the-burn)
 - Cast all [Phoenix Flames](https://www.wowhead.com/spell=257541/phoenix-flames) charges when talented into [From the Ashes](https://www.wowhead.com/spell=342344/from-the-ashes) or talented into neither [From the Ashes](https://www.wowhead.com/spell=342344/from-the-ashes) or [Alexstrasza's Fury](https://www.wowhead.com/spell=235870/alexstraszas-fury), to convert [Heating Up](https://www.wowhead.com/spell=48107/heating-up) to [Hot Streak](https://www.wowhead.com/spell=48108/hot-streak)
 - Cast [Scorch](https://www.wowhead.com/spell=2948/scorch) if none of the above
 
 Note: Replace all [Scorches](https://www.wowhead.com/spell=2948/scorch) with [Fireball](https://www.wowhead.com/spell=133/fireball) when your haste exceeds 100%, except the minimum amounts of [Scorches](https://www.wowhead.com/spell=2948/scorch) required to maintain [Improved Scorch](https://www.wowhead.com/spell=383604/improved-scorch)
 
-Okay dude, i'm not a friggin super computer. I can't go down that list multiple times between each button press, what gives?
+Okay dude, I'm not a friggin super computer. I can't go down that list multiple times between each button press, what gives?
 
 ### Combustion Prio rewritten:
 This is a lot more simple than it looks. So let's break it down for a person to read, not a computer. Don't give up just yet, I promise by the time you've finished all the Combustion parts you'll be able to pull this off with a bit of practice.
