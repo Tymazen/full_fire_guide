@@ -7,7 +7,7 @@ description:
 permalink: /about
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thomas A. Anderson" width="200">
+![Profile_pic](https://github.com/Tymazen/full_fire_guide/blob/9a8d73fad4fb498a14147574ea83011c1f3eb20f/assets/img/uploads/profile.png)
 
 # About
 
