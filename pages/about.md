@@ -1,14 +1,15 @@
 ---
 layout: page
 menu: false
-date: '2024-02-22 01:53:59'
+date: '2020-02-27 01:53:59'
 title: About
 description:
 permalink: /about/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Tymazen" width="200">
+<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thomas A. Anderson" width="200">
 
+# About
 
 I'm Tymazen! A Fire Mage junkie and raider with Sever - US Sargeras World Rank 315, US 109. I love all things Fire Mage with a passion and want to spread that love around! You can catch me frequently on stream with my guild, coaching others in Women for Warcraft, or hanging around Altered Time doing log reviews and some very minor TC. (Lets face it, I break or complicate more things that I contribute.)
 
