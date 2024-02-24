@@ -40,17 +40,18 @@ What's the difference between this playstyle, and the APL playstyle?
 - HS = [Hot Streak](https://www.wowhead.com/spell=48108/hot-streak)
 
 ### Order of learning:
-1. [ABC's]
-2. [Zero GCD / CWC]
-3. [Munching / Overcapping]
-4. [Double Pyroblast]
-5. [Combustion Priority]
-6. [Combustion Entries]
-7. [GCD's in combustion]
-8. [Filler]
-9. [Cooldown & Proc Usage]
-10. [Defensives]
-11. [Tier Sets & their impact]
+1. [ABC's](https://tymazen.github.io/full_fire_guide/abcs-of-casting/)
+2. [Zero GCD / CWC](https://tymazen.github.io/full_fire_guide/zero-gcd-cwc/)
+3. [Munching / Overcapping](https://tymazen.github.io/full_fire_guide/munching-overcapping/)
+4. [Double Pyroblast](https://tymazen.github.io/full_fire_guide/double-pyroblast/)
+5. [Combustion Priority](https://tymazen.github.io/full_fire_guide/double-pyroblast/)
+6. [Combustion Entries](https://tymazen.github.io/full_fire_guide/combustion-entries/)
+7. [GCD's in combustion](https://tymazen.github.io/full_fire_guide/gcds-in-combustion/)
+8. [Filler](https://tymazen.github.io/full_fire_guide/filler/)
+9. [Cooldown & Proc Usage](https://tymazen.github.io/full_fire_guide/cooldowns-proc-usage/)
+10. [Defensives](https://tymazen.github.io/full_fire_guide/defensives/)
+11. [Tier Sets & their impact](https://tymazen.github.io/full_fire_guide/tier-sets/)
+12. [Addons/WA's](https://tymazen.github.io/full_fire_guide/addons-was/)
 
 ### Why don't I see a BIS list?
 Because frankly, "BIS lists" are bullshit. Use [Raidbots](https://www.raidbots.com/simbot) Droptimizer / Top gear options and find your best gear that way. Stephen Hawking is dead, so there's no human left alive who can actually do the math off the top of their head for gear.
