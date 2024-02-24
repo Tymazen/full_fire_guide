@@ -88,7 +88,7 @@ Typically it looks like this:
 
 ![5SKB_stack_bust_entry_example](https://github.com/Tymazen/images/assets/67207109/e32a94d7-2628-4bb8-8f83-05d59b001a3d)
 
-Overall [Combustion](https://www.wowhead.com/spell=190319/combustion) will always result in you obtaining at-least one [Sun King's Blessing](https://www.wowhead.com/spell=383886/sun-kings-blessing) depending on how many stacks you started with as long as you have 25% or more haste.
+Overall [Combustion](https://www.wowhead.com/spell=190319/combustion) will always result in you obtaining at-least one [Sun King's Blessing](https://www.wowhead.com/spell=383886/sun-kings-blessing) and sometimes more, depending on how many stacks you started with as long as you have 25% or more haste.
 
 ### Finishing Combustion/SKB
 Practice this!
