@@ -1,130 +1,30 @@
 ---
-date: 2019-05-16 23:48:05
+date: 2024-02-22 12:05:00
 layout: post
-title: Welcome to the desert of the real
-subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
-description: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua.
-image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
-optimized_image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
-category: blog
+title: ABC's of Casting
+subtitle: Always Be Casting
+description: Casting basics, always be casting!
+image: https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ee219434-7993-43a9-98d6-238ee165ae53/dft5d4o-0c5fa4f0-4fe0-4b2e-b8bc-b88b7442de36.png/v1/fill/w_894,h_894,q_70,strp/byan_warcraft_mage_art_book_style_fire_element_a0b_by_byanel_dft5d4o-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAyNCIsInBhdGgiOiJcL2ZcL2VlMjE5NDM0LTc5OTMtNDNhOS05OGQ2LTIzOGVlMTY1YWU1M1wvZGZ0NWQ0by0wYzVmYTRmMC00ZmUwLTRiMmUtYjhiYy1iODhiNzQ0MmRlMzYucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.uhHjM8IzBweR9hGdUGTOgZBxPEj5lY-_L-GQIj1-5GM
+optimized_image: https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ee219434-7993-43a9-98d6-238ee165ae53/dft5d4o-0c5fa4f0-4fe0-4b2e-b8bc-b88b7442de36.png/v1/fill/w_894,h_894,q_70,strp/byan_warcraft_mage_art_book_style_fire_element_a0b_by_byanel_dft5d4o-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAyNCIsInBhdGgiOiJcL2ZcL2VlMjE5NDM0LTc5OTMtNDNhOS05OGQ2LTIzOGVlMTY1YWU1M1wvZGZ0NWQ0by0wYzVmYTRmMC00ZmUwLTRiMmUtYjhiYy1iODhiNzQ0MmRlMzYucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.uhHjM8IzBweR9hGdUGTOgZBxPEj5lY-_L-GQIj1-5GM
+category: Basics
 tags:
-  - welcome
-  - blog
-author: mranderson
-paginate: true
+  - Casting
+  - Basics
+author: Tymazen
 ---
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+# Learning your ABC's!
+Practice this!
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+ABC's is a simple acronym that stands for "Always be casting."
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+It's exactly as it sounds, you should ALWAYS be casting something. Never ever cancel your casts. Any gaps in your casting outside of the minimum required for the GCD is a damage loss, and will negatively affect your performance.
 
-## Inline HTML elements
+Wow has this very nifty thing called a spellqueuewindow (SQW) that we will be taking advantage of frequently. I'm not going to go into detail on this item, just leave yours at default. The only thing you need to know is that you should always be pressing your next spell before your current spells castbar or GCD has finished/elapsed.
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+That's all there is to ABC's, never stop casting, always be pressing your next cast before your current has finished. It takes some practice on a target dummy to do, but doesn't require long. You will struggle with this slightly more as you transition from dummy practice to live content, but with time and practice you'll learn to get this part down in live content.
 
-* **To bold text**, use `<strong>`.
-* *To italicize text*, use `<em>`.
-* Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-* Citations, like <cite>&mdash; Thomas A. Anderson</cite>, should use `<cite>`.
-* <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-* Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
+Example of Bad ABC's:
+![Bad_ABC](https://github.com/Tymazen/images/assets/67207109/692b013c-7787-4f47-a153-599957e94d4c)
 
-Most of these elements are styled by browsers with few modifications on our part.
-
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-
---page-break--
-
-## Code
-
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
-
-```js
-// Example can be run directly in your JavaScript console
-
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
-
-// Call the function
-adder(2, 6);
-// > 8
-```
-
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
-
-## Lists
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
-
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
-
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
-
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
-
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-## Images
-
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
-
-![placeholder](https://placehold.it/800x400 "Large example image") ![placeholder](https://placehold.it/400x200 "Medium example image") ![placeholder](https://placehold.it/200x200 "Small example image")
-
-## Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
+Example of Good ABC's:
+![Good ABC](https://github.com/Tymazen/images/assets/67207109/0f2199ce-dc69-4df3-86e8-3ec431688f19)
