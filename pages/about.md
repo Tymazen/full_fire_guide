@@ -7,7 +7,7 @@ description:
 permalink: /about
 ---
 
-![Profile_pic](https://github.com/Tymazen/full_fire_guide/blob/9a8d73fad4fb498a14147574ea83011c1f3eb20f/assets/img/uploads/profile.png)
+![discpicpng](https://github.com/Tymazen/images/assets/67207109/55fa611d-779b-47d2-8eb1-b0e3b62734e8)
 
 # About
 
