@@ -4,7 +4,7 @@ menu: false
 date: '2024-02-22 01:53:59'
 title: Acknowledgements
 description:
-permalink: /Acknowledgements/
+permalink: /Acknowledgements
 ---
 
 # A Special Thank you

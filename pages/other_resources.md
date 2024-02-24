@@ -4,7 +4,7 @@ menu: false
 date: '2024-02-22 01:53:59'
 title: Other resources
 description:
-permalink: /other_resources/
+permalink: /other_resources
 ---
 
 # Other Reccomended Guides and Resources
