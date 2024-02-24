@@ -123,7 +123,7 @@ While it's not imperative to your performance, this knowledge is how we're able 
 ### Sun King's Blessing Anatomy
 Practice this!
 
-SKB's anatomy follows the very same format as [Combustion](https://www.wowhead.com/spell=190319/combustion), and that's the partial GCD at the end. Whether the partial GCD needs one last [Fireblast](https://www.wowhead.com/spell=108853/fire-blast)>[Pyroblast](https://www.wowhead.com/spell=11366/pyroblast) will change as gear values increase or decrease through tiers, but i'll keep this section updated with current normal gearing thresholds.
+SKB's anatomy follows the very same format as [Combustion](https://www.wowhead.com/spell=190319/combustion) with a bit more focus on the partial GCD at the end. Whether the partial GCD needs one last [Fireblast](https://www.wowhead.com/spell=108853/fire-blast)>[Pyroblast](https://www.wowhead.com/spell=11366/pyroblast) will change as gear values increase or decrease through tiers, but i'll keep this section updated with current normal gearing thresholds.
 
 Typically it looks like this:
 - Proper Entry
