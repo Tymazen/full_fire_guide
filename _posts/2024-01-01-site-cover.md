@@ -12,6 +12,9 @@ tags:
   - Welcome
 author: Tymazen
 ---
+### Before you start the guide
+Pro-tip: Practice on the target dummies in Ironforge/Thunderbluff unless you specifically need to practice the [Improved Scorch](https://www.wowhead.com/spell=383604/improved-scorch) phase of your rotation. Use your mage portal to go your respective city. Right where you teleport in there will be a class trainer you can use to reset __all__ of your cooldowns and debuffs. To do so talk to them, enter the proving grounds, start any trial, right click your character portrait and select "Leave Instance Group." Thank me later when you practice with [Time Warp](https://www.wowhead.com/spell=80353/time-warp!)
+
 ### Order of learning:
 1. [ABC's](https://tymazen.github.io/full_fire_guide/abcs-of-casting/)
 2. [Zero GCD / CWC](https://tymazen.github.io/full_fire_guide/zero-gcd-cwc/)
