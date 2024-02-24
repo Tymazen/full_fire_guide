@@ -49,7 +49,7 @@ When should I use these combos? (HINT: MOST OF THE TIME)
 
  - [Scorch](https://www.wowhead.com/spell=2948/scorch)+[Fireblast](https://www.wowhead.com/spell=108853/fire-blast)>[Pyroblast](https://www.wowhead.com/spell=11366/pyroblast)>[Pyroblast](https://www.wowhead.com/spell=11366/pyroblast)
 
-[Found earlier in the guide]()
+[Found earlier in the guide](https://tymazen.github.io/full_fire_guide/double-pyroblast/)
 
 
 
