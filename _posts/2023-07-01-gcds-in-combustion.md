@@ -16,7 +16,7 @@ author: Tymazen
 # GCD's in Combustion
 
 ### Overcap Prevention
-Overcapping anything is always bad, as you lose CDR and thus uses of an spell throughout a fight. Overcapping [Fireblasts](https://www.wowhead.com/spell=108853/fire-blast) is the worst thing you can possibly do. Preventing this is very simple. If you are about to overcap [Fireblast](https://www.wowhead.com/spell=108853/fire-blast) charges, use a [Fireblast](https://www.wowhead.com/spell=108853/fire-blast)>[Pyroblast](https://www.wowhead.com/spell=11366/pyroblast). This may commonly be needed at the very beginning of [Combustion](https://www.wowhead.com/spell=190319/combustion) or in very high haste scenarios. Otherwise, following the rules and 3GCD combo playstyle outlined throughout the guide will outright prevent the issue.
+Overcapping anything is always bad, as you lose CDR and thus uses of a spell throughout a fight. Overcapping [Fireblasts](https://www.wowhead.com/spell=108853/fire-blast) is the worst thing you can possibly do. Preventing this is very simple. If you are about to overcap [Fireblast](https://www.wowhead.com/spell=108853/fire-blast) charges, use a [Fireblast](https://www.wowhead.com/spell=108853/fire-blast)>[Pyroblast](https://www.wowhead.com/spell=11366/pyroblast). This may commonly be needed at the very beginning of [Combustion](https://www.wowhead.com/spell=190319/combustion) or in very high haste scenarios. Otherwise, following the rules and 3GCD combo playstyle outlined throughout the guide will outright prevent the issue.
 
 
 ### The 3GCD Combos:
