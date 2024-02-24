@@ -33,7 +33,7 @@ The hardcast can be:
 
 ### **What about Meteor and Living Bomb?**
 - If you are talented into [Meteor](https://www.wowhead.com/spell=153561/meteor) you will use it at any target count as long as it is available.
-- Cast [Meteor](https://www.wowhead.com/spell=153561/meteor) as the GCD before entering combustion if you do not have SKB, and use [Scorch](https://www.wowhead.com/spell=2948/scorch) as your hardcast if below 100% haste (use [Fireball](https://www.wowhead.com/spell=133/fireball) otherwise) so [Meteor](https://www.wowhead.com/spell=153561/meteor) lands inside combustion.
+- Cast [Meteor](https://www.wowhead.com/spell=153561/meteor) as the GCD before entering combustion if you do not have [Sun King's Blessing](https://www.wowhead.com/spell=383886/sun-kings-blessing), and use [Scorch](https://www.wowhead.com/spell=2948/scorch) as your hardcast if below 100% haste (use [Fireball](https://www.wowhead.com/spell=133/fireball) otherwise) so [Meteor](https://www.wowhead.com/spell=153561/meteor) lands inside combustion.
 - Cast [Meteor](https://www.wowhead.com/spell=153561/meteor) instead of [Scorch](https://www.wowhead.com/spell=2948/scorch) as your first GCD in [Combustion](https://www.wowhead.com/spell=190319/combustion) if you could not pre-cast it, and did not have a [Heating up](https://www.wowhead.com/spell=48107/heating-up) when starting your entry
 - Cast [Meteor](https://www.wowhead.com/spell=153561/meteor) between your double [Pyroblast](https://www.wowhead.com/spell=11366/pyroblast) or [Flamestrike](https://www.wowhead.com/spell=2120/flamestrike) if you had [Heating up](https://www.wowhead.com/spell=48107/heating-up) when starting your entry and could not precast it before entering.
 
