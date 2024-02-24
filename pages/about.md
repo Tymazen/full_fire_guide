@@ -1,19 +1,15 @@
 ---
 layout: page
 menu: false
-date: '2020-02-27 01:53:59'
+date: '2024-02-22 01:53:59'
 title: About
-description: Some description.
+description: 
 permalink: /about/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thomas A. Anderson" width="200">
+![discpicpng](https://github.com/Tymazen/images/assets/67207109/55fa611d-779b-47d2-8eb1-b0e3b62734e8)
 
-# About
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I'm Tymazen! A Fire Mage junkie and raider with Sever - US Sargeras World Rank 315, US 109. I love all things Fire Mage with a passion and want to spread that love around! You can catch me frequently on stream with my guild, coaching others in Women for Warcraft, or hanging around Altered Time doing log reviews and some very minor TC. (Lets face it, I break more things that I contribute)
+
+Outside of wow i'm a father of two, husband to a beautiful wife, businessman and a veteran. So if you don't see me around i'm probably being mauled by tiny angels!
