@@ -23,8 +23,11 @@ Because simply put, you need this skill set before you can move onto doing anyth
 
 To pull this off, first test and correct your SQW:
 - run this in wow, it should return 400
+
 ```/dump GetCVar("SpellQueueWindow")```
+
 - and then Set your SQW to 400 if it isn’t:
+
 ```/console SpellQueueWindow 400```
 
 I'm not going to go into detail about this and why some folks modify it from the standard of 400. Let it be known that if your Spellqueuewindow is not set to 400, you are dead wrong.
