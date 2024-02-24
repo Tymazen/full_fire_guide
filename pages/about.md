@@ -7,7 +7,7 @@ description:
 permalink: /about/
 ---
 
-![discpicpng](https://github.com/Tymazen/images/assets/67207109/55fa611d-779b-47d2-8eb1-b0e3b62734e8)
+<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Tymazen" width="200">
 
 
 I'm Tymazen! A Fire Mage junkie and raider with Sever - US Sargeras World Rank 315, US 109. I love all things Fire Mage with a passion and want to spread that love around! You can catch me frequently on stream with my guild, coaching others in Women for Warcraft, or hanging around Altered Time doing log reviews and some very minor TC. (Lets face it, I break or complicate more things that I contribute.)
