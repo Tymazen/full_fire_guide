@@ -88,6 +88,7 @@ Typically it looks like this:
 
 ![5SKB_stack_bust_entry_example](https://github.com/Tymazen/images/assets/67207109/e32a94d7-2628-4bb8-8f83-05d59b001a3d)
 
+Overall [Combustion](https://www.wowhead.com/spell=190319/combustion) will always result in you obtaining at-least one [Sun King's Blessing](https://www.wowhead.com/spell=383886/sun-kings-blessing) depending on how many stacks you started with as long as you have 25% or more haste.
 
 ### Finishing Combustion/SKB
 Practice this!
@@ -130,6 +131,6 @@ Typically it looks like this:
 - 3GCD combo
 - [Fireblast](https://www.wowhead.com/spell=108853/fire-blast)>[Pyroblast](https://www.wowhead.com/spell=11366/pyroblast) for the last half GCD. (It's only in hu-SKB's for current content/gearing)
 
-Overall, this means you should be getting an exact amount of [Pyroblasts]((https://www.wowhead.com/spell=11366/pyroblast)) out of your stand-alone [Sun King's Blessings](https://www.wowhead.com/spell=383886/sun-kings-blessing). You should get 5 from a [Sun King's Blessing](https://www.wowhead.com/spell=383886/sun-kings-blessing) you entered with [Heating up](https://www.wowhead.com/spell=48107/heating-up) and 4 from one you entered without [Heating up](https://www.wowhead.com/spell=48107/heating-up). If you're using [Meteor] with your [Sun King's Blessing](https://www.wowhead.com/spell=383886/sun-kings-blessing) you will only get 4 [Pyroblasts](https://www.wowhead.com/spell=11366/pyroblast) with a [Heating up](https://www.wowhead.com/spell=48107/heating-up) SKB and still 4 with a no-hu SKB.
-
 ![skb_anatomy](https://github.com/Tymazen/images/assets/67207109/8e0c95f2-5882-4bd8-abde-0704ee27f399)
+
+You should be getting an exact amount of [Pyroblasts]((https://www.wowhead.com/spell=11366/pyroblast)) out of your stand-alone [Sun King's Blessings](https://www.wowhead.com/spell=383886/sun-kings-blessing). You should get 5 from a [Sun King's Blessing](https://www.wowhead.com/spell=383886/sun-kings-blessing) you entered with [Heating up](https://www.wowhead.com/spell=48107/heating-up) and 4 from one you entered without [Heating up](https://www.wowhead.com/spell=48107/heating-up). If you're using [Meteor] with your [Sun King's Blessing](https://www.wowhead.com/spell=383886/sun-kings-blessing) you will only get 4 [Pyroblasts](https://www.wowhead.com/spell=11366/pyroblast) with a [Heating up](https://www.wowhead.com/spell=48107/heating-up) SKB and still 4 with a no-hu SKB.
