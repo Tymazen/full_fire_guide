@@ -28,3 +28,5 @@ Example of Bad ABC's:
 
 Example of Good ABC's:
 ![Good ABC](https://github.com/Tymazen/images/assets/67207109/0f2199ce-dc69-4df3-86e8-3ec431688f19)
+
+https://github.com/Tymazen/images/assets/67207109/ef5232be-db8f-438e-9c17-5f4692a394ab
