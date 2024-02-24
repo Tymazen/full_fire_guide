@@ -1,15 +1,11 @@
 ---
 layout: author
-photo: /assets/img/uploads/profile.png
-name: mranderson
-display_name: Mr. Anderson
-position: The One
-bio: Bulletproof hacker passionate about leather clothes.
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+photo: ![discpicpng](https://github.com/Tymazen/images/assets/67207109/55fa611d-779b-47d2-8eb1-b0e3b62734e8)
+name: Tymazen
+display_name: Tymazen
+position: Owner
+bio: Veteran, Father, businessman, Gamer
+github_username: Tymazen
+discord_username: Tymazen
+twitch_username: Ty_mazen
 ---
-
