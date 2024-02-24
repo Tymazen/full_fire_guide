@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: https://github.com/Tymazen/images/assets/67207109/55fa611d-779b-47d2-8eb1-b0e3b62734e8
+photo: /assets/img/uploads/profile.png
 name: Tymazen
 display_name: Tymazen
 position: Owner
