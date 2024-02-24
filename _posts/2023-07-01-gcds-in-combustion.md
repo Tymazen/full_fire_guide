@@ -28,7 +28,7 @@ Here's the magic trick! Using these frequently allows you to follow all of your 
 - Use the [Scorch](https://www.wowhead.com/spell=2948/scorch) combo if you need to refresh [Improved Scorch](https://www.wowhead.com/spell=383604/improved-scorch) (Usually around 4 seconds left on it)
 - Use the [Flame Accelerant](https://www.wowhead.com/spell=203275/flame-accelerant) combo if it's available
 - Use one of the [Phoenix Flames](https://www.wowhead.com/spell=194466/phoenixs-flames) combos if you have charges to spend, and are not talented into [Alexstrasza's Fury](https://www.wowhead.com/spell=235870/alexstraszas-fury)
-- Use the [Scorch](https://www.wowhead.com/spell=2948/scorch) combo if you don't have [Flame Accelerant](https://www.wowhead.com/spell=203275/flame-accelerant) or [Phoenix Flames](https://www.wowhead.com/spell=194466/phoenixs-flames) to spend. (If you havent picked up on it yet, this scorch combo is going to be used __a lot!__)
+- Use the [Scorch](https://www.wowhead.com/spell=2948/scorch) combo if you don't have [Flame Accelerant](https://www.wowhead.com/spell=203275/flame-accelerant) or [Phoenix Flames](https://www.wowhead.com/spell=194466/phoenixs-flames) to spend. (If you havent picked up on it yet, this combo is going to be used __a lot!__)
 
 When should I use these combos? (HINT: MOST OF THE TIME)
 - If you won't munch [Sun King's Blessing](https://www.wowhead.com/spell=383886/sun-kings-blessing) stacks
