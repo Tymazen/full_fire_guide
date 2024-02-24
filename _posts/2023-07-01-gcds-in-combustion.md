@@ -96,7 +96,7 @@ Because of the way fire's spells are coded we can consume a [Hot Streak](https:/
 
 What this means, is that every [Combustion](https://www.wowhead.com/spell=190319/combustion) should end with it's last whole or partial GCD being a consumed [Hot Streak](https://www.wowhead.com/spell=48108/hot-streak), or a  [Sun King's Blessing](https://www.wowhead.com/spell=383886/sun-kings-blessing) being hardcast and thus extending it. Every [Sun King's blessing](https://www.wowhead.com/spell=383886/sun-kings-blessing) or extensions, should end with it's last whole or partial GCD being a consumed [Hot Streak](https://www.wowhead.com/spell=48108/hot-streak).
 
-This can be a little tricky at first, luckily a good friend of mine has the perfect weakaura for this! check out Forgy's [Final Bust GCD Helper](https://wago.io/MTxeqnJE1), read the description, and leverage it to it's full value!
+This can be a little tricky at first, luckily a good friend of mine has the perfect weakaura for this! Check out Forgy's [Final Bust GCD Helper](https://wago.io/MTxeqnJE1), read the description, and leverage it to it's full value!
 
 ### GCD Math
 [Combustion](https://www.wowhead.com/spell=190319/combustion) when talented into [Improved Combustion](https://www.wowhead.com/spell=383967/improved-combustion) gives 12 seconds of [Combustion](https://www.wowhead.com/spell=190319/combustion). [Sun King's Blessing](https://www.wowhead.com/spell=383886/sun-kings-blessing) gives 6 seconds of [Combustion](https://www.wowhead.com/spell=190319/combustion). We can calculate out how many GCD's we get for each of these at any haste levels with some simple math. (Time/(GCD Base/(1+haste)))
