@@ -19,6 +19,8 @@ permalink: /other_resources/
 
 [Altered Time - Mage Class Discord](https://discord.com/invite/alteredtime)
 
+[Forgy's Mage Discord](https://discord.gg/kxysxjBEfY)
+
 [Raidbots](https://www.raidbots.com/simbot)
 
 [Warcraftlogs](https://www.warcraftlogs.com/help/start)
