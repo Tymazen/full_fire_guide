@@ -52,7 +52,7 @@ Note: Replace all [Scorches](https://www.wowhead.com/spell=2948/scorch) with [Fi
 
 Okay dude, I'm not a friggin super computer. I can't go down that list multiple times between each button press, what gives?
 
-<iframe src="https://giphy.com/embed/b8RQzkElbBsXqEPF2X" width="480" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/theoffice-the-office-tv-episode-819-b8RQzkElbBsXqEPF2X">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/b8RQzkElbBsXqEPF2X" width="480" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/theoffice-the-office-tv-episode-819-b8RQzkElbBsXqEPF2X"></a></p>
 
 ### Combustion Prio rewritten:
 This is a lot more simple than it looks. So let's break it down for a person to read, not a computer. Don't give up just yet, I promise by the time you've finished all the Combustion parts you'll be able to pull this off with a bit of practice.
@@ -68,3 +68,5 @@ __Special Note:__ [Combustion](https://www.wowhead.com/spell=190319/combustion) 
   - [Sun King's Blessing](https://www.wowhead.com/spell=383886/sun-kings-blessing) should always be casted as soon as possible, as it __adds__ 6 additional seconds to your [Combustion](https://www.wowhead.com/spell=190319/combustion) buff.
 
 That's the prio! I'll be covering more on **how** to pull this off without a super computer for a brain over the next few sections, so bear with me!
+
+<iframe src="https://giphy.com/embed/yJFeycRK2DB4c" width="480" height="384" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/yJFeycRK2DB4c"></a></p>
