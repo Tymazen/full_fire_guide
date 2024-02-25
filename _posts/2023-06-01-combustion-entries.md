@@ -75,7 +75,7 @@ The hardcast can be:
 
 ![meteor_before_hardcast](https://github.com/Tymazen/images/assets/67207109/85efd864-7239-46bb-8b98-1d0248dfb09b)
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rPquGXBcWFM?si=8J70kkvXk9hKJ8nF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 - [Meteor](https://www.wowhead.com/spell=153561/meteor) Swapped with [Scorch](https://www.wowhead.com/spell=2948/scorch) for no-hu entries with SKB:
