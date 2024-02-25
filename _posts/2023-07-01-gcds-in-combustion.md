@@ -144,6 +144,6 @@ You should be getting an exact amount of [Pyroblasts](https://www.wowhead.com/sp
 
 {% include youtube_embed.html %}
 
-<iframe src="https://www.youtube.com/watch?v=UrbaRyB-Qng" width="480" height="384" frameBorder="0" class="youtube-embed" allowFullScreen></iframe><p><a href="https://www.youtube.com/watch?v=UrbaRyB-Qng"></a></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ABtzxkSWteI?si=c6KY0ou2srLIoLRt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<iframe src="https://www.youtube.com/watch?v=ABtzxkSWteI" width="480" height="384" frameBorder="0" class="youtube-embed" allowFullScreen></iframe><p><a href="https://www.youtube.com/watch?v=ABtzxkSWteI"></a></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ABtzxkSWteI?si=c6KY0ou2srLIoLRt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
