@@ -33,5 +33,3 @@ Do note, 0GCD does not mean it is CWC. They are different identifiers that you h
 ![Alter_time_GCD_example](https://github.com/Tymazen/images/assets/67207109/f34499ce-f51f-414d-8588-d93f84fe624b)
 
 ![SKB_Bust_combined_no_hu](https://github.com/Tymazen/images/assets/67207109/645857dd-272b-40d7-b685-68b6d93bb131)
-
-{% include youtube_embed.html %}

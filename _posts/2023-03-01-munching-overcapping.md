@@ -30,5 +30,3 @@ Overcapping is having a resource sit at its maximum stacks for any duration of t
 - This adds up over a fight. In this particular example, for every 10 seconds total I overcap on [Fireblast](https://www.wowhead.com/spell=108853/fire-blast) charges, I lose a usage. Even if I'm only overcapping for 1 to 2 seconds at a time, if I consistently do this for a grand total of 60 seconds, I've lost 6 uses of that spell.
 
 Thus, overcapping resources is very bad and loses us uses of a said resource down the line.
-
-{% include youtube_embed.html %}
