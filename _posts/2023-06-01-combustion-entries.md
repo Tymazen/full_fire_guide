@@ -5,18 +5,6 @@ title: Combustion Entries
 subtitle:
 video_number: 1
 video_id:
-video_number: 2
-video_id:
-video_number: 3
-video_id:
-video_number: 4
-video_id:
-video_number: 5
-video_id:
-video_number: 6
-video_id:
-video_number: 7
-video_id:
 description: How to enter Combustion properly to set yourself up for maximum damage!
 image: https://cdn.epiccarry.com/wp-content/uploads/sites/31/2023/08/Fire-mage-guide.webp
 optimized_image: https://cdn.epiccarry.com/wp-content/uploads/sites/31/2023/08/Fire-mage-guide.webp
@@ -59,46 +47,44 @@ The hardcast can be:
 
 ![Bust_Entry_HU](https://github.com/Tymazen/images/assets/67207109/04b3873a-b8ba-4888-9371-90f6f9e489ce)
 
-{% include youtube_embed.html %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DdPxFqjXL3M?si=rpiinYuOds5pYS9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 - Entry without [Heating up](https://www.wowhead.com/spell=48107/heating-up):
 
 ![Bust_Entry_no_hu](https://github.com/Tymazen/images/assets/67207109/983d7f72-0dfd-4ed9-8bde-e3a397086bbb)
 
-{% include youtube_embed.html %}
+
 
 
 - [Flamestrike](https://www.wowhead.com/spell=2120/flamestrike) variant with [Heating up](https://www.wowhead.com/spell=48107/heating-up):
 
 ![FS_variant_bust_entry_hu](https://github.com/Tymazen/images/assets/67207109/64c20806-e5ee-4515-8a19-dff46a9d1e04)
 
-{% include youtube_embed.html %}
+
 
 
 - [Flamestrike](https://www.wowhead.com/spell=2120/flamestrike) variant without [Heating up](https://www.wowhead.com/spell=48107/heating-up):
 
 ![FS_variant_bust_entry_no_hu](https://github.com/Tymazen/images/assets/67207109/077f1928-fa70-4808-9227-42d40d16f78c)
 
-{% include youtube_embed.html %}
+
 
 
 - [Meteor](https://www.wowhead.com/spell=153561/meteor) before hardcast:
 
 ![meteor_before_hardcast](https://github.com/Tymazen/images/assets/67207109/85efd864-7239-46bb-8b98-1d0248dfb09b)
 
-{% include youtube_embed.html %}
+
 
 
 - [Meteor](https://www.wowhead.com/spell=153561/meteor) Swapped with [Scorch](https://www.wowhead.com/spell=2948/scorch) for no-hu entries:
 
 ![meteor_swapped_with_scorch](https://github.com/Tymazen/images/assets/67207109/48458b1b-951f-4b1e-aefe-179361262ac4)
 
-{% include youtube_embed.html %}
+
 
 
 - [Meteor](https://www.wowhead.com/spell=153561/meteor) between doubles for hu entries:
 
 ![meteor_between_doubles](https://github.com/Tymazen/images/assets/67207109/954f252b-1f22-49b2-ae4f-f3b8380937e8)
-
-{% include youtube_embed.html %}
