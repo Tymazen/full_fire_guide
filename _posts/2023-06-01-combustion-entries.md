@@ -54,7 +54,7 @@ The hardcast can be:
 
 ![Bust_Entry_no_hu](https://github.com/Tymazen/images/assets/67207109/983d7f72-0dfd-4ed9-8bde-e3a397086bbb)
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/arzAoYNfdMA?si=qQ78gGHtQu4R1jPq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 - [Flamestrike](https://www.wowhead.com/spell=2120/flamestrike) variant with [Heating up](https://www.wowhead.com/spell=48107/heating-up):
@@ -71,20 +71,20 @@ The hardcast can be:
 
 
 
-- [Meteor](https://www.wowhead.com/spell=153561/meteor) before hardcast:
+- [Meteor](https://www.wowhead.com/spell=153561/meteor) before hardcast (When we don't have SKB available):
 
 ![meteor_before_hardcast](https://github.com/Tymazen/images/assets/67207109/85efd864-7239-46bb-8b98-1d0248dfb09b)
 
 
 
 
-- [Meteor](https://www.wowhead.com/spell=153561/meteor) Swapped with [Scorch](https://www.wowhead.com/spell=2948/scorch) for no-hu entries:
+- [Meteor](https://www.wowhead.com/spell=153561/meteor) Swapped with [Scorch](https://www.wowhead.com/spell=2948/scorch) for no-hu entries with SKB:
 
 ![meteor_swapped_with_scorch](https://github.com/Tymazen/images/assets/67207109/48458b1b-951f-4b1e-aefe-179361262ac4)
 
 
 
 
-- [Meteor](https://www.wowhead.com/spell=153561/meteor) between doubles for hu entries:
+- [Meteor](https://www.wowhead.com/spell=153561/meteor) between doubles for hu entries with SKB:
 
 ![meteor_between_doubles](https://github.com/Tymazen/images/assets/67207109/954f252b-1f22-49b2-ae4f-f3b8380937e8)
