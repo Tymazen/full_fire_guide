@@ -143,3 +143,7 @@ You should be getting an exact amount of [Pyroblasts](https://www.wowhead.com/sp
 {% include youtube_embed.html %}
 
 {% include youtube_embed.html %}
+
+<iframe src="https://www.youtube.com/watch?v=UrbaRyB-Qng" width="480" height="384" frameBorder="0" class="youtube-embed" allowFullScreen></iframe><p><a href="https://www.youtube.com/watch?v=UrbaRyB-Qng"></a></p>
+
+<iframe src="https://www.youtube.com/watch?v=ABtzxkSWteI" width="480" height="384" frameBorder="0" class="youtube-embed" allowFullScreen></iframe><p><a href="https://www.youtube.com/watch?v=ABtzxkSWteI"></a></p>
