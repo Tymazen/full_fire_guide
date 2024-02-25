@@ -3,9 +3,8 @@ date: 2024-02-22 11:59:00
 layout: post
 title: Combustion GCD's
 subtitle:
-video_number: 1
-video_id: UrbaRyB-Qng
 video_number: 2
+video_id: UrbaRyB-Qng
 video_id: ABtzxkSWteI
 description: How to actually do damage!
 image: https://preview.redd.it/40g4rjn631ta1.jpg?width=640&crop=smart&auto=webp&s=53b1953c81de85d59485eb68d306e3495a3f6f20
