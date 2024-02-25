@@ -77,5 +77,3 @@ author: Tymazen
 /cancelaura Ice Block
 /stopcasting [known:Ice Floes]
 /cast Blink```
-
-{% include youtube_embed.html %}
