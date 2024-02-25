@@ -3,6 +3,8 @@ date: 2024-02-22 12:00:00
 layout: post
 title: Combustion Entries
 subtitle:
+video_number: 1
+video_id:
 description: How to enter Combustion properly to set yourself up for maximum damage!
 image: https://cdn.epiccarry.com/wp-content/uploads/sites/31/2023/08/Fire-mage-guide.webp
 optimized_image: https://cdn.epiccarry.com/wp-content/uploads/sites/31/2023/08/Fire-mage-guide.webp
@@ -69,3 +71,5 @@ The hardcast can be:
 - [Meteor](https://www.wowhead.com/spell=153561/meteor) between doubles for hu entries:
 
 ![meteor_between_doubles](https://github.com/Tymazen/images/assets/67207109/954f252b-1f22-49b2-ae4f-f3b8380937e8)
+
+{% include youtube_embed.html %}

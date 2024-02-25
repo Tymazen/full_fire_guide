@@ -3,6 +3,8 @@ date: 2024-02-22 12:02:00
 layout: post
 title: Double Pyroblast
 subtitle:
+video_number: 1
+video_id:
 description: The one skill all Fire Mage's need, the double Pyroblast combo!
 image: https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ee219434-7993-43a9-98d6-238ee165ae53/dg14y9j-9251f2c3-f118-4dd5-a8fb-55c367d61105.png/v1/fill/w_894,h_894,q_70,strp/fire_mage_35_by_byanel_dg14y9j-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAyNCIsInBhdGgiOiJcL2ZcL2VlMjE5NDM0LTc5OTMtNDNhOS05OGQ2LTIzOGVlMTY1YWU1M1wvZGcxNHk5ai05MjUxZjJjMy1mMTE4LTRkZDUtYThmYi01NWMzNjdkNjExMDUucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.o3R-DQ5ikCIj1CDCTIomFyPkyxiYzsZVzaMNJi9Kepk
 optimized_image: https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ee219434-7993-43a9-98d6-238ee165ae53/dg14y9j-9251f2c3-f118-4dd5-a8fb-55c367d61105.png/v1/fill/w_894,h_894,q_70,strp/fire_mage_35_by_byanel_dg14y9j-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAyNCIsInBhdGgiOiJcL2ZcL2VlMjE5NDM0LTc5OTMtNDNhOS05OGQ2LTIzOGVlMTY1YWU1M1wvZGcxNHk5ai05MjUxZjJjMy1mMTE4LTRkZDUtYThmYi01NWMzNjdkNjExMDUucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.o3R-DQ5ikCIj1CDCTIomFyPkyxiYzsZVzaMNJi9Kepk
@@ -60,3 +62,5 @@ And that's it! Congrats! You've done a double pyro! Repeat this as many times as
 - During [Firestarter](https://www.wowhead.com/spell=205026/firestarter) as called for
 - During [Combustion](https://www.wowhead.com/spell=190319/combustion) when you wont overcap [Fireblast](https://www.wowhead.com/spell=108853/fire-blast) charges.
 - When hardcasting [Fireball](https://www.wowhead.com/spell=133/fireball) or [Pyroblast]((https://www.wowhead.com/spell=11366/pyroblast)) in [Combustion](https://www.wowhead.com/spell=190319/combustion)
+
+{% include youtube_embed.html %}

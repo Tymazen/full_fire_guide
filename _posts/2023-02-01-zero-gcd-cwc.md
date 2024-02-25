@@ -3,6 +3,8 @@ date: 2024-02-22 12:04:00
 layout: post
 title: Zero GCD / CWC and me
 subtitle:
+video_number: 1
+video_id:
 description: Zero GCD Spells / Castable While Casting Spells, what the hell?
 image: https://preview.redd.it/yh3mq2jemwhb1.png?width=1024&format=png&auto=webp&s=336811a8a09d1e354c1b130908020e92d56c57f0
 optimized_image: https://preview.redd.it/yh3mq2jemwhb1.png?width=1024&format=png&auto=webp&s=336811a8a09d1e354c1b130908020e92d56c57f0
@@ -31,3 +33,5 @@ Do note, 0GCD does not mean it is CWC. They are different identifiers that you h
 ![Alter_time_GCD_example](https://github.com/Tymazen/images/assets/67207109/f34499ce-f51f-414d-8588-d93f84fe624b)
 
 ![SKB_Bust_combined_no_hu](https://github.com/Tymazen/images/assets/67207109/645857dd-272b-40d7-b685-68b6d93bb131)
+
+{% include youtube_embed.html %}

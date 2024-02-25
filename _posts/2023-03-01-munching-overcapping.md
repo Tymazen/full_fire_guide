@@ -3,6 +3,8 @@ date: 2024-02-22 12:03:00
 layout: post
 title: Munching / Overcapping
 subtitle:
+video_number: 1
+video_id:
 description: Things not to do!
 image: https://img.stablecog.com/insecure/2560w/aHR0cHM6Ly9iLnN0YWJsZWNvZy5jb20vZjMyZmU2N2ItZWZlOC00ZWQxLWI2MjctMWNkYWIyZjFjMzRkLmpwZWc.webp
 optimized_image: https://img.stablecog.com/insecure/2560w/aHR0cHM6Ly9iLnN0YWJsZWNvZy5jb20vZjMyZmU2N2ItZWZlOC00ZWQxLWI2MjctMWNkYWIyZjFjMzRkLmpwZWc.webp
@@ -28,3 +30,5 @@ Overcapping is having a resource sit at its maximum stacks for any duration of t
 - This adds up over a fight. In this particular example, for every 10 seconds total I overcap on [Fireblast](https://www.wowhead.com/spell=108853/fire-blast) charges, I lose a usage. Even if I'm only overcapping for 1 to 2 seconds at a time, if I consistently do this for a grand total of 60 seconds, I've lost 6 uses of that spell.
 
 Thus, overcapping resources is very bad and loses us uses of a said resource down the line.
+
+{% include youtube_embed.html %}

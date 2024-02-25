@@ -3,6 +3,8 @@ date: 2024-02-22 11:59:00
 layout: post
 title: Combustion GCD's
 subtitle:
+video_number: 1
+video_id:
 description: How to actually do damage!
 image: https://preview.redd.it/40g4rjn631ta1.jpg?width=640&crop=smart&auto=webp&s=53b1953c81de85d59485eb68d306e3495a3f6f20
 optimized_image: https://preview.redd.it/40g4rjn631ta1.jpg?width=640&crop=smart&auto=webp&s=53b1953c81de85d59485eb68d306e3495a3f6f20
@@ -134,3 +136,5 @@ Typically it looks like this:
 ![skb_anatomy](https://github.com/Tymazen/images/assets/67207109/8e0c95f2-5882-4bd8-abde-0704ee27f399)
 
 You should be getting an exact amount of [Pyroblasts](https://www.wowhead.com/spell=11366/pyroblast) out of your stand-alone [Sun King's Blessings](https://www.wowhead.com/spell=383886/sun-kings-blessing). You should get 5 from a [Sun King's Blessing](https://www.wowhead.com/spell=383886/sun-kings-blessing) you entered with [Heating up](https://www.wowhead.com/spell=48107/heating-up) and 4 from one you entered without [Heating up](https://www.wowhead.com/spell=48107/heating-up). If you're using [Meteor](https://www.wowhead.com/spell=153561/meteor) with your [Sun King's Blessing](https://www.wowhead.com/spell=383886/sun-kings-blessing) you will only get 4 [Pyroblasts](https://www.wowhead.com/spell=11366/pyroblast) with a [Heating up](https://www.wowhead.com/spell=48107/heating-up) SKB and still 4 with a no-hu SKB. Remember when you have haste buffs from mechanics, [Time Warp](https://www.wowhead.com/spell=80353/time-warp), [Power Infusion](https://www.wowhead.com/spell=265314/power-infusion), etc you'll get more GCD's thus more [Pyroblasts](https://www.wowhead.com/spell=11366/pyroblast) !
+
+{% include youtube_embed.html %}

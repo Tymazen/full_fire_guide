@@ -3,6 +3,8 @@ date: 2024-02-22 11:56:00
 layout: post
 title: Defensives
 subtitle:
+video_number: 1
+video_id:
 description: Dead DPS do no DPS!
 image: https://i.pinimg.com/736x/01/d4/09/01d409b080253458652d69617f566846--fire-magic-the-knight.jpg
 optimized_image: https://i.pinimg.com/736x/01/d4/09/01d409b080253458652d69617f566846--fire-magic-the-knight.jpg
@@ -23,3 +25,5 @@ Overall fire's typical defensive gameplay is __proactive__ not reactive. We want
 5. [Mass Barrier](https://www.wowhead.com/spell=414660/mass-barrier) Follows the same rules as [Blazing Barrier](https://www.wowhead.com/spell=235313/blazing-barrier) above, 2 minute cooldown, although can be used to help your teammates out in a pinch too.
 6. [Mirror Image](https://www.wowhead.com/spell=321686/mirror-image) Follows the same rules as [Blazing Barrier](https://www.wowhead.com/spell=235313/blazing-barrier), with a small caveat that while this is purely a defensive, you can use it pre-pull or during high damage amp phases to squeeze a tiny fraction of DPS out more. This is the one defensive I try to get used as close to on cooldown as possible because it does do a very tiny fraction of DPS, and if you aren't maxing, you're minning.
 7. [Greater Invisibility](https://www.wowhead.com/spell=110959/greater-invisibility) is our "oh-shit" button for outside of [Combustion](https://www.wowhead.com/spell=190319/combustion), and like the others should only ever be used inside [Combustion](https://www.wowhead.com/spell=190319/combustion) if you will guaranteed die without it.
+
+{% include youtube_embed.html %}
