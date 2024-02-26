@@ -25,8 +25,3 @@ author: Tymazen
 <a href="https://www.wowhead.com/talent-calc/mage/fire/DAPFYElYQQEQVIkQVUBUNVVRSJERVEVQZEBE">Hybrid M+</a>
 
 <a href="https://www.wowhead.com/talent-calc/mage/fire/DAPFYAlYQQUQUYkQVUBUNVVRGYFBVERVYEBA">Raid</a>
-
-- Ignite M+
-`B8DAAAAAAAAAAAAAAAAAAAAAAQCJFNkQSaCcgkQEJhkAAAAAAAAAkIikkQJRRSikkkkCAAAINA`
-<object data="https://www.wowhead.com/talent-calc/mage/fire/DAPFYElYQQEQVIkQVUBUNVVRCIVFVEVQZECBA" width="100%" height="100%">
-</object>
