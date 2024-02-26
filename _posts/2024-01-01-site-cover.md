@@ -20,7 +20,7 @@ Pro-tip: Practice on the target dummies in Ironforge/Thunderbluff unless you spe
 2. [Zero GCD / CWC](https://tymazen.github.io/full_fire_guide/zero-gcd-cwc/)
 3. [Munching / Overcapping](https://tymazen.github.io/full_fire_guide/munching-overcapping/)
 4. [Double Pyroblast](https://tymazen.github.io/full_fire_guide/double-pyroblast/)
-5. [Combustion Priority](https://tymazen.github.io/full_fire_guide/double-pyroblast/)
+5. [Combustion Priority](https://tymazen.github.io/full_fire_guide/combustion-priority/)
 6. [Combustion Entries](https://tymazen.github.io/full_fire_guide/combustion-entries/)
 7. [GCD's in combustion](https://tymazen.github.io/full_fire_guide/gcds-in-combustion/)
 8. [Filler](https://tymazen.github.io/full_fire_guide/filler/)

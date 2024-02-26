@@ -1,6 +1,6 @@
 <div class="recommendation">
     <div class="message">
-        <strong>{{ site.translations.recommendation.text | default: "Why don't you read something next?" }}</strong>
+        <strong>{{ site.translations.recommendation.text | default: "Check out the next section!" }}</strong>
         <div>
             <button>
                 <svg><use xlink:href="#icon-arrow-right"></use></svg>
@@ -8,11 +8,11 @@
             </button>
         </div>
     </div>
-    {% if page.next %}
-        {% assign recommendation = page.next %}
+    {% if page.previous %}
+        {% assign recommendation = page.previous %}
     {% else %}
-        {% assign next_posts = site.posts | where_exp:"post","post.is_generated != true" | where_exp:"post","post.path != page.path" %}
-        {% assign shuffled_array = next_posts | shuffle %}
+        {% assign previous_posts = site.posts | where_exp:"post","post.is_generated != true" | where_exp:"post","post.path != page.path" %}
+        {% assign shuffled_array = previous_posts | shuffle %}
         {% assign recommendation = shuffled_array.first %}
     {% endif %}
     <a href="{{ recommendation.url | prepend: site.baseurl }}" class="post-preview">
