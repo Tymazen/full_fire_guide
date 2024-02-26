@@ -16,7 +16,7 @@ tags:
   - Raid
 author: Tymazen
 ---
-# talent setups
+# Talent setups
 
 <a href="https://www.wowhead.com/talent-calc/mage/fire/DAPFYElYQQEQVIkQVUBUNVVRCIVFVEVQZECBA">Ignite M+</a>
 
@@ -25,3 +25,7 @@ author: Tymazen
 <a href="https://www.wowhead.com/talent-calc/mage/fire/DAPFYElYQQEQVIkQVUBUNVVRSJERVEVQZEBE">Hybrid M+</a>
 
 <a href="https://www.wowhead.com/talent-calc/mage/fire/DAPFYAlYQQUQUYkQVUBUNVVRGYFBVERVYEBA">Raid</a>
+
+- Ignite M+
+```B8DAAAAAAAAAAAAAAAAAAAAAAQCJFNkQSaCcgkQEJhkAAAAAAAAAkIikkQJRRSikkkkCAAAINA```
+<iframe src="https://www.wowhead.com/talent-calc/mage/fire/DAPFYElYQQEQVIkQVUBUNVVRCIVFVEVQZECBA" width="900" height="700"></iframe>
