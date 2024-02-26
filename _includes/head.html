@@ -38,6 +38,10 @@
     {% if page.tags %}
         <meta name="keywords" content="{{ page.tags | join: ', ' }}">
     {% endif %}
+    
+    <!-- Include wowhead tooltips -->
+      <script>const whTooltips = {colorLinks: true, iconizeLinks: true, renameLinks: true};</script>
+      <script src="https://wow.zamimg.com/js/tooltips.js"></script>
 
     <!-- Social: Twitter -->
     <meta name="twitter:card" content="summary_large_image">
@@ -95,9 +99,6 @@
 
     <!-- Include extra styles -->
     {% include extra-css.html %}
-
-
-
 
 
     <!-- JavaScript enabled/disabled -->
