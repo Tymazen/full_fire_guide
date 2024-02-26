@@ -18,14 +18,14 @@ author: Tymazen
 ---
 # Talent setups
 
-### Ignite M+
+### Ignite M+ B8DAAAAAAAAAAAAAAAAAAAAAAQCJFNkQSaCcgkQEJhkAAAAAAAAAkIikkQJRRSikkkkCAAAINA
 <a href="https://www.wowhead.com/talent-calc/embed/mage/fire/DAPFYElYQQEQVIkQVUBUNVVRCIVFVEVQZECBA">Ignite M+</a>
 
-### Flamestrike M+
+### Flamestrike M+ B8DAAAAAAAAAAAAAAAAAAAAAAQCJFNkQSaCcgkQEJhkAAAAAAAAAEJJRiElEFJJSSSSaAAAgA
 <a href="https://www.wowhead.com/talent-calc/embed/mage/fire/DAPFYElYQQEQVIkQVUBUNVVRSJUVUURAZEBQ">Flamestrike</a>
 
-### Hybrid M+
+### Hybrid M+ B8DAAAAAAAAAAAAAAAAAAAAAAQCJFNkQSaCcgkQEJhkAAAAAAAAAkkkEJJUSUkESSSSAAAASD
 <a href="https://www.wowhead.com/talent-calc/embed/mage/fire/DAPFYElYQQEQVIkQVUBUNVVRSJERVEVQZEBE">Hybrid</a>
 
-### Raid:
+### Raid: B8DAAAAAAAAAAAAAAAAAAAAAAQCSRDJRSaCIJERSkkAAAAAAAAAIiIJJOQJ5AlkEJJJJBAAAIA
 <a href="https://www.wowhead.com/talent-calc/embed/mage/fire/DAPFYAlYQQUQUYkQVUBUNVVRGYFBVERVYEBA">Raid</a>
