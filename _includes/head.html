@@ -38,10 +38,10 @@
     {% if page.tags %}
         <meta name="keywords" content="{{ page.tags | join: ', ' }}">
     {% endif %}
-    
+
     <!-- Include wowhead tooltips -->
-      <script>const whTooltips = {colorLinks: true, iconizeLinks: true, renameLinks: true};</script>
-      <script src="https://wow.zamimg.com/js/tooltips.js"></script>
+    <script>const whTooltips = {colorLinks: true, iconizeLinks: true, renameLinks: true};</script>
+    <script src="https://wow.zamimg.com/js/tooltips.js"></script>
 
     <!-- Social: Twitter -->
     <meta name="twitter:card" content="summary_large_image">
@@ -100,9 +100,20 @@
     <!-- Include extra styles -->
     {% include extra-css.html %}
 
-
     <!-- JavaScript enabled/disabled -->
     <script>
         document.querySelector('html').classList.remove('no-js');
     </script>
-</head>
+
+    <!-- Custom JavaScript for triggering finishedReading event -->
+    <script>
+        (function () {
+            'use strict';
+
+            var recommendation = document.querySelector('.recommendation');
+            var isVisible = false;
+
+            if (recommendation) {
+                // Back to top button
+                var goBackToTop = recommendation.querySelector('.message button');
+                goBackToTop.addEventListener('click', function () {
