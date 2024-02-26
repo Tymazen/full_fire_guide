@@ -1,6 +1,7 @@
 ---
 layout: page
 menu: false
+photo: /assets/img/uploads/profile.png
 date: '2020-02-27 01:53:59'
 title: About
 description:
