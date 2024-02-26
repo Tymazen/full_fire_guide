@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/uploads/profile.png
+photo: assets/img/uploads/profile.png
 name: Tymazen
 display_name: Tymazen
 position: Owner
