@@ -95,10 +95,30 @@
 
     <!-- Include extra styles -->
     {% include extra-css.html %}
-    
+
   <!-- Include wowhead tooltips -->
     <script>const whTooltips = {colorLinks: true, iconizeLinks: true, renameLinks: true};</script>
     <script src="https://wow.zamimg.com/js/tooltips.js"></script>
+
+  <!-- Make reccomendation pop-up when user has scrolled to the bottom -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script>
+    $(document).ready(function() {
+        // Function to check if the user has scrolled to the bottom of the page
+        function isScrolledToBottom() {
+            return $(window).scrollTop() + $(window).height() >= $(document).height();
+        }
+
+        // Show recommendation when scrolled to bottom
+        $(window).scroll(function() {
+            if (isScrolledToBottom()) {
+                $(".recommendation").slideDown();
+            } else {
+                $(".recommendation").slideUp();
+            }
+        });
+    });
+    </script>
 
     <!-- JavaScript enabled/disabled -->
     <script>
