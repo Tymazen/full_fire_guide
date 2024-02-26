@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: assets/img/uploads/profile.png
+photo: https://github.com/Tymazen/full_fire_guide/blob/master/assets/img/uploads/profile.png
 name: Tymazen
 display_name: Tymazen
 position: Owner
