@@ -45,7 +45,7 @@ two_columns_layout: true
 
 # Advanced Settings
 baseurl: "/full_fire_guide" # the subpath of your site, e.g. /blog
-url: "https://tymazen.github.io" # the base hostname & protocol for your site
+url: "https://tymazen.github.io/full_fire_guide/" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 language: "en"
 categories_folder: category
