@@ -1,14 +1,14 @@
 ---
 date: 2024-02-22 11:54:00
 layout: post
-title: Talents
+title: Talent Setups
 subtitle:
 video_number: 1
 video_id:
 description: Current Talent Builds
 image: https://cdnb.artstation.com/p/assets/images/images/035/001/961/large/istvan-danyi-firemage-2500.jpg?1613835891
 optimized_image: https://cdnb.artstation.com/p/assets/images/images/035/001/961/large/istvan-danyi-firemage-2500.jpg?1613835891
-category: Addons
+category: Talents
 tags:
   - Ignite M+
   - Flamestrike M+
