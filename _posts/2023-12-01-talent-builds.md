@@ -28,4 +28,5 @@ author: Tymazen
 
 - Ignite M+
 `B8DAAAAAAAAAAAAAAAAAAAAAAQCJFNkQSaCcgkQEJhkAAAAAAAAAkIikkQJRRSikkkkCAAAINA`
-<iframe src="https://www.wowhead.com/talent-calc/mage/fire/DAPFYElYQQEQVIkQVUBUNVVRCIVFVEVQZECBA" width="900" height="700"></iframe>
+<object data="https://www.wowhead.com/talent-calc/mage/fire/DAPFYElYQQEQVIkQVUBUNVVRCIVFVEVQZECBA" width="100%" height="100%">
+</object>
