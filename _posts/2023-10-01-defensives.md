@@ -3,8 +3,6 @@ date: 2024-02-22 11:56:00
 layout: post
 title: Defensives
 subtitle:
-video_number: 1
-video_id:
 description: Dead DPS do no DPS!
 image: https://i.pinimg.com/736x/01/d4/09/01d409b080253458652d69617f566846--fire-magic-the-knight.jpg
 optimized_image: https://i.pinimg.com/736x/01/d4/09/01d409b080253458652d69617f566846--fire-magic-the-knight.jpg

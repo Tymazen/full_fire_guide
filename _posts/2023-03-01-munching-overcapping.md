@@ -3,8 +3,6 @@ date: 2024-02-22 12:03:00
 layout: post
 title: Munching / Overcapping
 subtitle:
-video_number: 1
-video_id:
 description: Things not to do!
 image: https://img.stablecog.com/insecure/2560w/aHR0cHM6Ly9iLnN0YWJsZWNvZy5jb20vZjMyZmU2N2ItZWZlOC00ZWQxLWI2MjctMWNkYWIyZjFjMzRkLmpwZWc.webp
 optimized_image: https://img.stablecog.com/insecure/2560w/aHR0cHM6Ly9iLnN0YWJsZWNvZy5jb20vZjMyZmU2N2ItZWZlOC00ZWQxLWI2MjctMWNkYWIyZjFjMzRkLmpwZWc.webp

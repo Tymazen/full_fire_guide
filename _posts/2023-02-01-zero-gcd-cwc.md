@@ -3,8 +3,6 @@ date: 2024-02-22 12:04:00
 layout: post
 title: Zero GCD / CWC and me
 subtitle:
-video_number: 1
-video_id:
 description: Zero GCD Spells / Castable While Casting Spells, what the hell?
 image: https://preview.redd.it/yh3mq2jemwhb1.png?width=1024&format=png&auto=webp&s=336811a8a09d1e354c1b130908020e92d56c57f0
 optimized_image: https://preview.redd.it/yh3mq2jemwhb1.png?width=1024&format=png&auto=webp&s=336811a8a09d1e354c1b130908020e92d56c57f0

@@ -3,8 +3,6 @@ date: 2024-02-22 11:53:00
 layout: post
 title: Addons / WA's / Macros
 subtitle:
-video_number: 1
-video_id:
 description: Things to give you an edge!
 image: https://cdn.apexminecrafthosting.com/img/uploads/2021/05/21163117/curseforge-logo.png
 optimized_image: https://cdn.apexminecrafthosting.com/img/uploads/2021/05/21163117/curseforge-logo.png

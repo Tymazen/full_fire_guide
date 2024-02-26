@@ -3,8 +3,6 @@ date: 2024-02-22 12:02:00
 layout: post
 title: Double Pyroblast
 subtitle:
-video_number: 1
-video_id: yRCm7OlAKa4
 description: The one skill all Fire Mage's need, the double Pyroblast combo!
 image: https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ee219434-7993-43a9-98d6-238ee165ae53/dg14y9j-9251f2c3-f118-4dd5-a8fb-55c367d61105.png/v1/fill/w_894,h_894,q_70,strp/fire_mage_35_by_byanel_dg14y9j-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAyNCIsInBhdGgiOiJcL2ZcL2VlMjE5NDM0LTc5OTMtNDNhOS05OGQ2LTIzOGVlMTY1YWU1M1wvZGcxNHk5ai05MjUxZjJjMy1mMTE4LTRkZDUtYThmYi01NWMzNjdkNjExMDUucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.o3R-DQ5ikCIj1CDCTIomFyPkyxiYzsZVzaMNJi9Kepk
 optimized_image: https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ee219434-7993-43a9-98d6-238ee165ae53/dg14y9j-9251f2c3-f118-4dd5-a8fb-55c367d61105.png/v1/fill/w_894,h_894,q_70,strp/fire_mage_35_by_byanel_dg14y9j-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAyNCIsInBhdGgiOiJcL2ZcL2VlMjE5NDM0LTc5OTMtNDNhOS05OGQ2LTIzOGVlMTY1YWU1M1wvZGcxNHk5ai05MjUxZjJjMy1mMTE4LTRkZDUtYThmYi01NWMzNjdkNjExMDUucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.o3R-DQ5ikCIj1CDCTIomFyPkyxiYzsZVzaMNJi9Kepk
@@ -41,7 +39,7 @@ I'm not going to go into detail about this and why some folks modify it from the
 ### **How to Double Pyroblast**
 ![Double Pyro](https://github.com/Tymazen/images/assets/67207109/1ccb7f18-7a63-44ed-acb1-527b1b412f86)
 
-{% include youtube_embed.html %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yRCm7OlAKa4?si=5JjqPA1oDScaDUGi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Find a target dummy who's HP does not move, then talent into [Firestarter](https://www.wowhead.com/spell=205026/firestarter) and [Alexstrasza's Fury](https://www.wowhead.com/spell=235870/alexstraszas-fury). We're doing this just to make learning this combo easier so you are not waiting on [Combustion](https://www.wowhead.com/spell=190319/combustion) to come back off cooldown to try again. These talents are not required to perform this combo inside [Combustion](https://www.wowhead.com/spell=190319/combustion).
 

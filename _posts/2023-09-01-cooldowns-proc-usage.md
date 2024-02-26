@@ -3,8 +3,6 @@ date: 2024-02-22 11:57:00
 layout: post
 title: Cooldown & Proc Usage
 subtitle:
-video_number: 1
-video_id:
 description: Managing our Cooldowns and Procs
 image: https://steamuserimages-a.akamaihd.net/ugc/932690098346232256/B0D04DCCB857C6095D544B4E66624BEFCA511D1A/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false
 optimized_image: https://steamuserimages-a.akamaihd.net/ugc/932690098346232256/B0D04DCCB857C6095D544B4E66624BEFCA511D1A/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false
