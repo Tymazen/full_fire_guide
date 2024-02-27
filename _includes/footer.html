@@ -21,7 +21,7 @@
         </a>
       {% endif %}
       {% if site.discord_username %}
-        <a href="https://www.discord.com/user/{{ site.discord_username }}" title="discord">
+        <a href="https://www.discord.com/users/{{ site.discord_username }}" title="discord">
           <svg><use xlink:href="#icon-discord"></use></svg>
         </a>
       {% endif %}
@@ -53,7 +53,7 @@
     {% assign social_urls = social_urls | append: '"https://medium.com/@' | append: site.medium_username | append: '",' %}
 {% endif %}
 {% if site.discord_username %}
-    {% assign social_urls = social_urls | append: '"https://www.discord.com/user/' | append: site.discord_username | append: '",' %}
+    {% assign social_urls = social_urls | append: '"https://www.discord.com/users/' | append: site.discord_username | append: '",' %}
 {% endif %}
 {% if site.linkedin_username %}
     {% assign social_urls = social_urls | append: '"https://www.linkedin.com/in/' | append: site.linkedin_username | append: '",' %}

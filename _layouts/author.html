@@ -44,7 +44,7 @@ layout: page
     {% assign author_urls = author_urls | append: '"https://medium.com/@' | append: page.medium_username | append: '",' %}
 {% endif %}
 {% if page.discord_username %}
-    {% assign author_urls = author_urls | append: '"https://www.discord.com/user/' | append: page.discord_username | append: '",' %}
+    {% assign author_urls = author_urls | append: '"https://www.discord.com/users/' | append: page.discord_username | append: '",' %}
 {% endif %}
 {% if page.linkedin_username %}
     {% assign author_urls = author_urls | append: '"https://www.linkedin.com/in/' | append: page.linkedin_username | append: '",' %}

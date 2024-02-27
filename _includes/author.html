@@ -35,7 +35,7 @@
           </a>
         {% endif %}
         {% if author.discord_username %}
-          <a href="https://www.discord.com/user/{{ author.discord_username }}" title="discord">
+          <a href="https://www.discord.com/users/{{ author.discord_username }}" title="discord">
             <svg><use xlink:href="#icon-discord"></use></svg>
           </a>
         {% endif %}
@@ -62,7 +62,7 @@
       {% assign author_urls = author_urls | append: '"https://medium.com/@' | append: author.medium_username | append: '",' %}
   {% endif %}
   {% if author.discord_username %}
-      {% assign author_urls = author_urls | append: '"https://www.discord.com/user/' | append: author.discord_username | append: '",' %}
+      {% assign author_urls = author_urls | append: '"https://www.discord.com/users/' | append: author.discord_username | append: '",' %}
   {% endif %}
   {% if author.linkedin_username %}
       {% assign author_urls = author_urls | append: '"https://www.linkedin.com/in/' | append: author.linkedin_username | append: '",' %}
