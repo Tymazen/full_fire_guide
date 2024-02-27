@@ -39,15 +39,29 @@
         <meta name="keywords" content="{{ page.tags | join: ', ' }}">
     {% endif %}
 
-    <!-- Other meta tags and links -->
+      <!-- Other meta tags and links -->
 
-    <style>
-        @media only screen and (max-width: 767px) {
-            a[href^="https://www.wowhead.com/talent-calc/embed"] {
-                display: none;
-            }
-        }
-    </style>
+      <!-- JavaScript to remove embeds -->
+      <script>
+          // Function to remove embeds
+          function removeEmbeds() {
+              // Check if the viewport width is less than or equal to 767px (mobile devices)
+              if (window.innerWidth <= 767) {
+                  // Get all anchor elements with href attribute starting with the specified URL pattern
+                  var embeds = document.querySelectorAll('a[href^="https://www.wowhead.com/talent-calc/embed"]');
+
+                  // Loop through each embed and remove it
+                  embeds.forEach(function(embed) {
+                      embed.parentNode.removeChild(embed);
+                  });
+              }
+          }
+
+          // Call the function when the window loads and on window resize
+          window.onload = removeEmbeds;
+          window.onresize = removeEmbeds;
+      </script>
+
 
     <!-- Include wowhead tooltips -->
     <script>const whTooltips = {colorLinks: true, iconizeLinks: true, renameLinks: true};</script>
