@@ -24,7 +24,7 @@ Practice this!
 
 Here's the magic trick! Using these frequently allows you to follow all of your prios, maintain your buffs, and use your procs without a super brain as you can commit these to muscle memory. This playstyle drastically reduces the mental load required to perform your rotation as you're making decisions once every 3GCD's for the most part, where as with the more fluid playstyle you frequently have to make snap decisions GCD to GCD.
 
- Deciding which set of combos to use is very simple.
+ Deciding which set of combos to use is very simple, and Just like the [Scorch](https://www.wowhead.com/spell=2948/scorch) combo taught earlier, these assume (and you should) you have [Heating up](https://www.wowhead.com/spell=48107/heating-up) when you start them.
 - Use the [Scorch](https://www.wowhead.com/spell=2948/scorch) combo if you need to refresh [Improved Scorch](https://www.wowhead.com/spell=383604/improved-scorch) (Usually around 4 seconds left on it)
 - Use the [Flame Accelerant](https://www.wowhead.com/spell=203275/flame-accelerant) combo if it's available
 - Use one of the [Phoenix Flames](https://www.wowhead.com/spell=194466/phoenixs-flames) combos if you have charges to spend, and are not talented into [Alexstrasza's Fury](https://www.wowhead.com/spell=235870/alexstraszas-fury)
