@@ -6,4 +6,5 @@ display_name: Tymazen
 position: Owner
 bio: Veteran, Father, Businessman, Gamer
 github_username: Tymazen
+discord_username: instagram_username
 ---
