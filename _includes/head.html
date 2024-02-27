@@ -38,7 +38,7 @@
     {% if page.tags %}
         <meta name="keywords" content="{{ page.tags | join: ', ' }}">
     {% endif %}
-    
+
     <!-- Include wowhead tooltips -->
     <script>const whTooltips = {colorLinks: true, iconizeLinks: true, renameLinks: true};</script>
     <script src="https://wow.zamimg.com/js/tooltips.js"></script>
@@ -47,24 +47,25 @@
 
       <!-- JavaScript to remove embeds -->
       <script>
-          // Function to remove embeds
-          function removeEmbeds() {
-              // Check if the viewport width is less than or equal to 767px (mobile devices)
-              if (window.innerWidth <= 1024) {
-                  // Get all anchor elements with href attribute starting with the specified URL pattern
-                  var embeds = document.querySelectorAll('a[href^="https://www.wowhead.com/talent-calc/embed"]');
+      // Function to remove embeds
+      function removeEmbeds() {
+          // Check if the browser is Safari or viewport width is less than or equal to 1024px
+          var isSafari = /^((?!chrome|android).)*safari/i.test(navigator.userAgent);
+          if (isSafari || window.innerWidth <= 1024) {
+              // Get all anchor elements with href attribute starting with the specified URL pattern
+              var embeds = document.querySelectorAll('a[href^="https://www.wowhead.com/talent-calc/embed"]');
 
-                  // Loop through each embed and remove it
-                  embeds.forEach(function(embed) {
-                      embed.parentNode.removeChild(embed);
-                  });
-              }
+              // Loop through each embed and remove it
+              embeds.forEach(function(embed) {
+                  embed.parentNode.removeChild(embed);
+              });
           }
+      }
 
-          // Call the function when the window loads and on window resize
-          window.onload = removeEmbeds;
-          window.onresize = removeEmbeds;
-      </script>
+      // Call the function when the window loads and on window resize
+      window.onload = removeEmbeds;
+      window.onresize = removeEmbeds;
+  </script>
 
 
 
