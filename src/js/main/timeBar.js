@@ -8,7 +8,7 @@
     if (post && timeBar) {
         var lastScrollTop = 0;
         // Adjust the offset here
-        var offset = 100; // Adjust this value as needed
+        var offset = 200; // Adjust this value as needed
         var maxScrollTop = post.scrollHeight - offset; // Apply the offset
 
         var completed = timeBar.querySelector('.completed');
