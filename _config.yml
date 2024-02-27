@@ -1,7 +1,7 @@
 # Site Settings
 name: Wow Guides
-title: How to Play | Guides for WoW
-description: How to play guides for World of Warcraft
+title: How to play | Guides for Wow
+description: How to play guides for World of Warcraft.
 tags:
   - blog
   - Guides
@@ -19,7 +19,7 @@ menu:
     url: /other_resources
   - title: Acknowledgements
     url: /Acknowledgements
-email: 92tymazen@gmail.com
+email: youremail@test.com
 # See: https://disqus.com/
 disqus_username: fire-guide.disqus.com/
 # Contact Form Setting
@@ -29,6 +29,7 @@ formspree_form_id: formspree_form_id
 
 # Social Media Settings
 # Remove the item if you don't need it
+#github_username: github_username
 #facebook_username: facebook_username
 #twitter_username: twitter_username
 #instagram_username: instagram_username
@@ -44,8 +45,8 @@ two_columns_layout: false
 
 
 # Advanced Settings
-url: "https://tymazen.github.io" # the base URL for your website
-baseurl: "/full_fire_guide" # the subpath of your site, e.g. /blogbase hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 language: "en"
 categories_folder: category
@@ -109,4 +110,4 @@ exclude: [
 ]
 
 # Theme
-version: Updated to patch 10.2.5
+version: v3.1.2
