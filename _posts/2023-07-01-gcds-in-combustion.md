@@ -33,6 +33,7 @@ Here's the magic trick! Using these frequently allows you to follow all of your 
 When should I use these combos? (HINT: MOST OF THE TIME)
 - If you won't munch [Sun King's Blessing](https://www.wowhead.com/spell=383886/sun-kings-blessing) stacks
 - During [Combustion](https://www.wowhead.com/spell=190319/combustion) when you wont overcap [Fireblast](https://www.wowhead.com/spell=108853/fire-blast) charges. Remember, these only work inside [Combustion](https://www.wowhead.com/spell=190319/combustion)!!
+- Do note, once you enter the [Searing Touch](https://www.wowhead.com/spell=269644/searing-touch) phase of a fight, the [Phoenix Flames](https://www.wowhead.com/spell=257541/phoenix-flames) combo's should no longer be used. (It's the same amount of damage to use them as the [Scorch](https://www.wowhead.com/spell=2948/scorch) combo at that point, so it's more simple to just outright ignore them.)
 
 **The Combos:**
  - [Fireball w/ FA](https://www.wowhead.com/spell=203275/flame-accelerant)+[Fireblast](https://www.wowhead.com/spell=108853/fire-blast)>[Pyroblast](https://www.wowhead.com/spell=11366/pyroblast)>[Pyroblast](https://www.wowhead.com/spell=11366/pyroblast)
