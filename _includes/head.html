@@ -39,9 +39,19 @@
         <meta name="keywords" content="{{ page.tags | join: ', ' }}">
     {% endif %}
 
+    <!-- Other meta tags and links -->
+
+    <style>
+        @media only screen and (max-width: 767px) {
+            a[href^="https://www.wowhead.com/talent-calc/embed"] {
+                display: none;
+            }
+        }
+    </style>
+
     <!-- Include wowhead tooltips -->
-      <script>const whTooltips = {colorLinks: true, iconizeLinks: true, renameLinks: true};</script>
-      <script src="https://wow.zamimg.com/js/tooltips.js"></script>
+    <script>const whTooltips = {colorLinks: true, iconizeLinks: true, renameLinks: true};</script>
+    <script src="https://wow.zamimg.com/js/tooltips.js"></script>
 
     <!-- Social: Twitter -->
     <meta name="twitter:card" content="summary_large_image">
