@@ -67,7 +67,7 @@
   ul,
   ol,
   iframe {
-    color: $accentDark;
+    color: $lightGray;
     @include center(rem(800px));
     @include mainFont(400);
     font-size: rem(17px);
@@ -87,7 +87,7 @@
     line-height: 1.2;
     margin: rem(5px) auto rem(10px);
     padding-top: 0;
-    color: $accentDark;
+    color: $lightGray;
   }
 
   p.post-subtitle {
@@ -139,7 +139,7 @@
 
   p,
   li {
-    color: $accentDark;
+    color: $lightGray;
 
     code {
       font-size: rem(15px);
@@ -372,7 +372,7 @@
 
       a {
         font-weight: normal;
-        color: $accentDark;
+        color: $lightGray;
         text-decoration: none;
         transition: all 0.3s;
 
@@ -638,9 +638,9 @@
 
     a {
       font-size: rem(14px);
-      color: $accentDark;
+      color: $lightGray;
       display: inline-block;
-      border: 1px solid $accentDark;
+      border: 1px solid $lightGray;
       border-radius: rem(20px);
       padding: 0 rem(10px);
       margin-right: rem(2px);
