@@ -87,11 +87,11 @@
     line-height: 1.2;
     margin: rem(5px) auto rem(10px);
     padding-top: 0;
-    color: gray;
+    color: $accentDark;
   }
 
   p.post-subtitle {
-    color: darken(gray, 30%);
+    color: darken($lightGray, 30%);
     font-size: rem(17px);
     margin: rem(10px) auto;
     line-height: 1.6;
@@ -613,7 +613,7 @@
 .icon-calendar {
   width: rem(14px);
   height: rem(14px);
-  fill: darken(gray, 30%);
+  fill: darken($lightGray, 30%);
   vertical-align: middle;
   margin-right: rem(3px);
 }
