@@ -16,4 +16,4 @@ I'm Tymazen! A Fire Mage junkie and raider with Sever - US Sargeras World Rank 3
 
 Outside of wow I'm a father of two, husband to a beautiful wife, pet parent freak, businessman and a veteran. So if you don't see me around i'm probably being mauled by dogs, children, or my wife if I forgot to take the trash out again!
 
-![sever_image](https://github.com/Tymazen/images/assets/67207109/66a5d7d1-7260-4a3c-8e13-a1f287ac7bc4)
+![Sever_logo_white_transparent_background](https://github.com/Tymazen/images/assets/67207109/30eec343-3469-4dd1-9fd7-9e99b8c7fbb1)
