@@ -1,5 +1,11 @@
 {% assign author = site.authors | where: "name", page.author | first %}
 {% if author %}
+<style>
+  .author {
+    background-color: #f2f2f2;
+    /* Add any additional styling here */
+  }
+</style>
   <section class="author">
     <div class="details">
       {% if author.photo %}
