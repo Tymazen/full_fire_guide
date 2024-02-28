@@ -52,7 +52,7 @@
   figcaption,
   img + em {
     display: block;
-    color: darken($lightGray, 30%);
+    color: darken(gray, 30%);
     text-align: center;
     @include mainFont(300);
   }
@@ -67,7 +67,7 @@
   ul,
   ol,
   iframe {
-    color: $lightGray;
+    color: gray;
     @include center(rem(800px));
     @include mainFont(400);
     font-size: rem(17px);
@@ -87,11 +87,11 @@
     line-height: 1.2;
     margin: rem(5px) auto rem(10px);
     padding-top: 0;
-    color: $lightGray;
+    color: gray;
   }
 
   p.post-subtitle {
-    color: darken($lightGray, 30%);
+    color: darken(gray, 30%);
     font-size: rem(17px);
     margin: rem(10px) auto;
     line-height: 1.6;
@@ -116,7 +116,7 @@
     @include mainFont(300);
     font-size: rem(13px);
     letter-spacing: 0;
-    color: darken($lightGray, 30%);
+    color: darken(gray, 30%);
     margin: 0 auto;
 
     @include media(">=sm") {
@@ -139,7 +139,7 @@
 
   p,
   li {
-    color: $lightGray;
+    color: gray;
 
     code {
       font-size: rem(15px);
@@ -260,7 +260,7 @@
 
   hr {
     @include center(rem(760px));
-    border: 1px solid $lightGray;
+    border: 1px solid gray;
     margin: 50px auto;
   }
 
@@ -350,7 +350,7 @@
   h2 {
     font-size: rem(24px);
     font-weight: bold;
-    border-bottom: 1px solid $lightGray;
+    border-bottom: 1px solid gray;
     padding: rem(10px) 0;
     @include media(">=sm") {
       padding: rem(48px) 0 rem(20px);
@@ -372,7 +372,7 @@
 
       a {
         font-weight: normal;
-        color: $lightGray;
+        color: gray;
         text-decoration: none;
         transition: all 0.3s;
 
@@ -613,7 +613,7 @@
 .icon-calendar {
   width: rem(14px);
   height: rem(14px);
-  fill: darken($lightGray, 30%);
+  fill: darken(gray, 30%);
   vertical-align: middle;
   margin-right: rem(3px);
 }
@@ -638,9 +638,9 @@
 
     a {
       font-size: rem(14px);
-      color: $lightGray;
+      color: gray;
       display: inline-block;
-      border: 1px solid $lightGray;
+      border: 1px solid gray;
       border-radius: rem(20px);
       padding: 0 rem(10px);
       margin-right: rem(2px);
@@ -700,7 +700,7 @@
     a {
       display: flex;
       justify-content: space-between;
-      border-bottom: 1px solid darken($lightGray, 10%);
+      border-bottom: 1px solid darken(gray, 10%);
       padding: rem(10px) 0;
       text-decoration: none;
       font-size: rem(18px);
