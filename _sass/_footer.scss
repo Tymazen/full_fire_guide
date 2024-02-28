@@ -1,10 +1,13 @@
 .comments {
   @include center(rem(800px));
   padding: 0 rem(20px);
+  background: $primaryDark;
+  color: $accentDark;
 
   h3 {
     margin: 0 0 rem(30px);
     font-size: rem(30px);
+    color: $accentDark;
   }
 }
 
