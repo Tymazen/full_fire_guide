@@ -137,7 +137,7 @@
 
   p,
   li {
-    color: $texts;
+    color: $accentDark;
 
     code {
       font-size: rem(15px);
@@ -370,7 +370,7 @@
 
       a {
         font-weight: normal;
-        color: $primaryDark;
+        color: $accentDark;
         text-decoration: none;
         transition: all 0.3s;
 
@@ -636,9 +636,9 @@
 
     a {
       font-size: rem(14px);
-      color: $primaryDark;
+      color: $accentDark;
       display: inline-block;
-      border: 1px solid $primaryDark;
+      border: 1px solid $accentDark;
       border-radius: rem(20px);
       padding: 0 rem(10px);
       margin-right: rem(2px);
