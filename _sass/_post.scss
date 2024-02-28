@@ -67,6 +67,7 @@
   ul,
   ol,
   iframe {
+    color: $accentDark;
     @include center(rem(800px));
     @include mainFont(400);
     font-size: rem(17px);
